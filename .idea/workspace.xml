@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64a53cbf-1936-4009-a3bf-5a3a51c8c28d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaInterview.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StaticVM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Frog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Frog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676460768335</updated>
       <workItem from="1676460769911" duration="3025000" />
-      <workItem from="1676901065900" duration="497000" />
+      <workItem from="1676901065900" duration="1549000" />
     </task>
     <servers />
   </component>
