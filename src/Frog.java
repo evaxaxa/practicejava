@@ -20,7 +20,7 @@ public class Frog {
                while(m!=-1)
                {
                    m--;
-                   if (a[j])
+                 //  if (a[j])
 
                }
            }
