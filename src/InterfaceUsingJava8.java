@@ -1,14 +1,14 @@
 
 interface A
 {
-    default void show()
+    static void show()
     {
         System.out.println("Inside A");
     }
 }
 interface B
 {
-    default void show()
+    static void show()
     {
         System.out.println("Inside B");
     }
@@ -29,7 +29,7 @@ public class InterfaceUsingJava8 implements A ,B{
         InterfaceUsingJava8 obj= new InterfaceUsingJava8();
         obj.show();
 
-//        A.show();
-//        B.show();
+        A.show();
+        B.show();
     }
 }

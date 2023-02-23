@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="64a53cbf-1936-4009-a3bf-5a3a51c8c28d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Frog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Frog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterfaceUsingJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfaceUsingJava8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
       </method>
     </configuration>
     <configuration name="JAVA8" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre" />
+      <option name="ALTERNATIVE_JRE_PATH" value="19" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="InterfaceUsingJava8" />
       <module name="JavaInterview" />
@@ -93,7 +93,7 @@
       <workItem from="1677132823865" duration="436000" />
       <workItem from="1677133472248" duration="608000" />
       <workItem from="1677134274640" duration="325000" />
-      <workItem from="1677134663894" duration="867000" />
+      <workItem from="1677134663894" duration="3689000" />
     </task>
     <servers />
   </component>
