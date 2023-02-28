@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="64a53cbf-1936-4009-a3bf-5a3a51c8c28d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterfaceUsingJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfaceUsingJava8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.JAVA8">
+  <component name="RunManager" selected="Application.Flipping">
+    <configuration name="Flipping" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Flipping" />
+      <module name="JavaInterview" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Frog" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Frog" />
       <module name="JavaInterview" />
@@ -72,8 +78,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UniqueElement" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="UniqueElement" />
+      <module name="JavaInterview" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.JAVA8" />
+      <item itemvalue="Application.UniqueElement" />
+      <item itemvalue="Application.Flipping" />
       <item itemvalue="Application.Frog" />
       <item itemvalue="Application.StaticVM" />
     </list>
@@ -93,7 +108,11 @@
       <workItem from="1677132823865" duration="436000" />
       <workItem from="1677133472248" duration="608000" />
       <workItem from="1677134274640" duration="325000" />
-      <workItem from="1677134663894" duration="3689000" />
+      <workItem from="1677134663894" duration="3904000" />
+      <workItem from="1677226667913" duration="12186000" />
+      <workItem from="1677306954888" duration="3890000" />
+      <workItem from="1677496087772" duration="10761000" />
+      <workItem from="1677588907532" duration="5660000" />
     </task>
     <servers />
   </component>

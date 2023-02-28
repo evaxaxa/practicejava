@@ -84,6 +84,9 @@ class Result {
 
 }
 
+
+
+
 public class SolutionTime {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
@@ -99,4 +102,6 @@ public class SolutionTime {
         bufferedReader.close();
         bufferedWriter.close();
     }
+
+   // Interface Collection
 }
